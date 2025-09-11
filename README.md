@@ -1,5 +1,5 @@
 # Heart Rate and Energy Monitoring App
-
+## Property of Stirling Lab ##
 ### Espruino Web IDE
 	 https://www.espruino.com/ide/
 
